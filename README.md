@@ -1,7 +1,7 @@
 # Quasar App (liquidity-home-task)
 
 Liquidity home task
-[APP LINK]:https://liquidity-home-task.vercel.app/
+[APP LINK]: https://liquidity-home-task.vercel.app/
 
 ## Install the dependencies
 
